@@ -1,4 +1,4 @@
-# 📊 Retail Sales & Performanc Dashboard (Power BI)
+# 📊 Retail Sales & Performance Dashboard (Power BI)
 
 ## Project Overview
 This project showcases a comprehensive end-to-end business dashboard developed using Power BI. The dashboard aims to provide a way to track KPIs (Transactions,Revenue,Profit,Returns),compare regional performance across 3 nations (USA,Canada & Mexico) and analyze product level trends to identify top performing products. 
@@ -83,5 +83,6 @@ Data Includes:
 ---
 
 ## 🖼 Dashboard Screenshots
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/RaadheySharma/retail-sales-performance-dashboard-powerbi/blob/main/Dashboard%20Maven%20Market.png)
+![Map](https://github.com/RaadheySharma/retail-sales-performance-dashboard-powerbi/blob/main/Map.png)
 ---
