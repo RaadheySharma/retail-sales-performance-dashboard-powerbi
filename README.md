@@ -3,11 +3,13 @@
 ## Project Overview
 This project showcases a comprehensive end-to-end business dashboard developed using Power BI. The dashboard aims to provide a way to track KPIs (Transactions,Revenue,Profit,Returns),compare regional performance across 3 nations (USA,Canada & Mexico) and analyze product level trends to identify top performing products. 
 
+---
+
 ## 🎯 Business Objective
-- Monitor revenue, profit, orders, and return rates and present them through KPI Cards 
+- Monitor revenue, profit, orders, and returns and present them through KPI Cards 
 - Identify top-performing product brands 
 - Track global sales performance
-- Compare performance against targets
+- Compare performance against targets gauges
 - Adjusted the graphs according to the user’s needs by using parameters based on “Field Parameters” 
 
 ---
